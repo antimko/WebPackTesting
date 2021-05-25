@@ -1,3 +1,3 @@
 "use strict"
 console.log("app.js");
-import "/src/css/main"
+import "../css/main.css"
