@@ -14,3 +14,6 @@ section {
     float: right;
 
 }
+button {
+    border-radius: 1em;
+}
