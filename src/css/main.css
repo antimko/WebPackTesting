@@ -4,7 +4,7 @@ body {
     text-align: center;
 }
 section {
-    background-color: darkorange;
+    background-color: rgb(255, 0, 234);
     color: blue;
     border: 2px solid green;
     width: 30%;
